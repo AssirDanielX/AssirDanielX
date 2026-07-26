@@ -1,70 +1,25 @@
 # Hi, I'm Daniel 👋
 
-Game Developer • Machine Learning Engineer • Backend Web Developer
+I'm a **Game Developer**, **Machine Learning Engineer**, and **Backend Web Developer** passionate about building intelligent software and interactive experiences.
 
-I build intelligent software, backend systems, and video games with a strong focus on performance, clean architecture, and practical AI applications.
+My main interests are game development, artificial intelligence, machine learning, and backend engineering. I enjoy designing scalable systems, solving complex problems, and exploring how AI can improve gameplay and player experiences.
 
-## About Me
+## 🛠 Tech Stack
 
-- Developing games with Godot
-- Learning and applying Machine Learning to game development
-- Building backend applications with Python and Django
-- Continuously improving my software engineering skills
-- Interested in AI, game programming, algorithms, and system design
+**Languages:** C, C++, C#, Python, Java, JavaScript, HTML/CSS, GDScript, SQL
 
-## Tech Stack
+**Frameworks & Tools:** Django, Django REST Framework, Godot, Git, Linux
 
-### Languages
-- C
-- C++
-- C#
-- Python
-- Java
-- JavaScript
-- GDScript
-- HTML/CSS 
-- SQL
+**Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn
 
-### Backend
-- Django
-- Django REST Framework
-- REST APIs
-- Next.js
+## 🌱 Currently Learning
 
-### Machine Learning
-...
+- Machine Learning for Game Development
+- AI-driven Gameplay Systems
+- Backend Architecture
+- Software Engineering Best Practices
 
-### Game Development
-- Godot Engine
+## 📫 Contact
+dannerworld1@gmail.com
 
-### Tools
-- Git
-- GitHub
-- Linux
-- WebStorm
-- PyCharm
-- Vs Code
-
-## Current Focus
-
-- Machine Learning for Video Games
-- AI Gameplay Systems
-- Backend Development
-- Personal Open Source Projects
-
-## Featured Projects
-
-You'll find projects related to:
-
-- Game Development
-- Machine Learning
-- Backend Development
-
-## Contact
-
-- GitHub Discussions
-- Email (dannerworld1@gmail.com)
-
----
-
-*"Code. Learn. Build. Repeat."*
+Feel free to explore my repositories or get in touch for collaborations and interesting projects.
