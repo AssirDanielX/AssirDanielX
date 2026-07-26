@@ -4,21 +4,11 @@ I'm a Game Developer, Machine Learning Engineer, and Backend Web Developer passi
 
 I enjoy combining software engineering, artificial intelligence, and game development to build efficient, scalable, and practical solutions.
 
-## Tech Stack
+my tech stack is **C , C++, C#, Python, Java, JavaScript, HTML/CSS, GDScript, SQL ; Django, Godot** 
 
-**Languages:** C, C++, C#, Python, Java, JavaScript, HTML/CSS, GDScript, SQL
+I'm currently learning machine Learning for Game Development, AI Gameplay Systems and Advanced Backend Architecture
 
-**Frameworks & Tools:** Django, Django REST Framework, Godot, Git, Linux
-
-**Machine Learning:** ...
-
-## Currently Learning
-
-- Machine Learning for Game Development
-- AI Gameplay Systems
-- Advanced Backend Architecture
-
-## 🤝 Open to
+I'm open to:
 
 - Backend Development
 - Game Development
